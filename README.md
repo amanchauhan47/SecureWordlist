@@ -14,7 +14,7 @@ SecureWordlist is a Python-based tool designed to generate common alphanumeric p
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/AmanChauhan/SecureWordlist.git
+    git clone https://github.com/amanchauhan47/SecureWordlist.git
     ```
 
 2. Navigate to the project directory:
