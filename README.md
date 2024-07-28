@@ -46,9 +46,9 @@ Enter the filename to save the wordlist (no spaces allowed): wordlist.txt
 ```
 After running the above commands, the generated wordlist will be saved in the specified file
 
-## Author
-Aman Chauhan
-
 ## Screenshots
 
 `screenshot1.png`
+
+## Author
+Aman Chauhan
