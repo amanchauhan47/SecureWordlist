@@ -48,7 +48,14 @@ After running the above commands, the generated wordlist will be saved in the sp
 
 ## Screenshots
 
-`screenshot1.png`
+![screenshots](images/screenshot1.png)
+![screenshots](images/screenshot2.png)
+![screenshots](images/screenshot3.png)
+![screenshots](images/screenshot4.png)
+![screenshots](images/screenshot5.png)
+![screenshots](images/screenshot6.png)
+![screenshots](images/screenshot7.png)
+![screenshots](images/screenshot8.png)
 
 ## Author
 Aman Chauhan
